@@ -27,8 +27,7 @@ public class Puzzle
             }
             scanner.close();
 
-            //ONCE THIS LINE OF CODE IS REACHED, YOUR words ArrayList
-            //CONTAINS ALL THE WORDS IN words.txt
+
         }
         catch (FileNotFoundException e) {
             e.printStackTrace();
