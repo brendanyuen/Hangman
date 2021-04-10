@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HangingMan
+comment1.params=
+comment1.target=HangingMan()
+comment2.params=
+comment2.target=int\ dieSomeMore()
+comment3.params=
+comment3.target=boolean\ isntDead()
+comment4.params=
+comment4.target=void\ show()
+numComments=5
